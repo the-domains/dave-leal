@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Dave Design]]></title>
-        <description><![CDATA[Dave Design]]></description>
+        <title><![CDATA[David Leal Design]]></title>
+        <description><![CDATA[David Leal Design]]></description>
         <link>https://thegrid.ai/dave-leal/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jan 2016 17:30:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jan 2016 17:43:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dave-leal/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Olá! ]]></title>
-            <description><![CDATA[<h1>Olá! </h1>]]></description>
+            <title><![CDATA[Let's talk]]></title>
+            <description><![CDATA[<article><h1>Let's talk</h1><p>Get in touch</p></article>]]></description>
+            <link>https://thegrid.ai/dave-leal/lets-talk/index.html</link>
+            <guid isPermaLink="false">097aa1da-fb86-441f-b8df-ea618734f1e1</guid>
+            <pubDate>Sat, 23 Jan 2016 17:43:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Olá! I'm a communication & multimedia designer living and working in Pittsburgh, PA. ]]></title>
+            <description><![CDATA[<article><h1>Olá! I'm a communication & multimedia designer living and working in Pittsburgh, PA. </h1><p>I have a sweet tooth for branding, digital + print design, and strategy. In every project I aim to surpass my creative boundaries and learn from every experience, creating relevant well-crafted work with a careful attention to detail. It gives me great joy to come up with thoughtful and creative ideas that work.</p></article>]]></description>
             <link>https://thegrid.ai/dave-leal/ola/index.html</link>
             <guid isPermaLink="false">6f92c2bb-f66f-401c-945f-da88c602fc6b</guid>
             <pubDate>Sat, 23 Jan 2016 17:29:55 GMT</pubDate>
