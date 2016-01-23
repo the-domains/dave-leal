@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-23T17:17:49.395Z'
-dateModified: '2016-01-23T17:17:40.639Z'
-title: 'BRANDING | PRINT | EDITORIAL | STRATEGY | UI | COPYWRITER | WEB'
+datePublished: '2016-01-23T17:48:46.775Z'
+dateModified: '2016-01-23T17:48:44.998Z'
+title: Design Disciplines
 author: []
 sourcePath: _posts/2016-01-23-branding-or-print-or-editorial-or-strategy-or-ui-or-copywriter-or.md
 published: true
@@ -22,4 +22,4 @@ url: branding-or-print-or-editorial-or-strategy-or-ui-or-copywriter-or/index.htm
 _type: Article
 
 ---
-## BRANDING | PRINT | EDITORIAL | STRATEGY | UI | COPYWRITER | WEB
+BRANDING | PRINT | EDITORIAL | STRATEGY | UI | COPYWRITER | WEB
