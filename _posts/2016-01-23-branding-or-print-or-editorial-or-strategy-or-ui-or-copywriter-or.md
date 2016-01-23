@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-23T17:17:49.336Z'
+datePublished: '2016-01-23T17:17:49.395Z'
 dateModified: '2016-01-23T17:17:40.639Z'
 title: 'BRANDING | PRINT | EDITORIAL | STRATEGY | UI | COPYWRITER | WEB'
 author: []
