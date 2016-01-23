@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Dave Leal]]></title>
         <description><![CDATA[Dave Leal]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dave-leal/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jan 2016 17:10:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Jan 2016 17:15:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dave-leal/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BRANDING | PRINT | EDITORIAL | STRATEGY | UI | COPYWRITER | WEB]]></title>
+            <description><![CDATA[<article><h1>BRANDING | PRINT | EDITORIAL | STRATEGY | UI | COPYWRITER | WEB</h1><p>undefined</p></article>]]></description>
+            <link>https://thegrid.ai/dave-leal/branding-or-print-or-editorial-or-strategy-or-ui-or-copywriter-or/index.html</link>
+            <guid isPermaLink="false">e57f7216-21f1-48e6-b053-c041c569e89e</guid>
+            <pubDate>Sat, 23 Jan 2016 17:15:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/968d6330-c6b1-4269-8319-0e6361d30bb7.jpg">]]></description>
-            <link>undefinedff4a74bc-a320-4592-8178-7a40b51ae6ed/index.html</link>
+            <link>https://thegrid.ai/dave-leal/ff4a74bc-a320-4592-8178-7a40b51ae6ed/index.html</link>
             <guid isPermaLink="false">ff4a74bc-a320-4592-8178-7a40b51ae6ed</guid>
             <pubDate>Sat, 23 Jan 2016 17:10:32 GMT</pubDate>
         </item>
