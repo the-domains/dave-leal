@@ -1,6 +1,6 @@
 name: Dave Leal
 favicon: null
-layout_spectrum: 0.14542
+layout_spectrum: 0
 typography_spectrum: 0.17331
 title: Design
 cta:
@@ -22,7 +22,7 @@ color:
     - '#f8f8f8'
     - '#fdfdfd'
   brandStrength: 1
-  lightness: 1
-  saturation: 1
+  lightness: 0.875
+  saturation: 0.9375
   rhythmicContrast: 1
 purpose: []
