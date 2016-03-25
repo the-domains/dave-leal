@@ -1,7 +1,7 @@
-name: Dave Leal
+name: Dave
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.17331
+layout_spectrum: 0.50528
+typography_spectrum: 0.32764
 title: Design
 cta:
   domain: null
@@ -17,12 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#f6f6f6'
-    - '#f8f8f8'
-    - '#fdfdfd'
-  brandStrength: 1
-  lightness: 0.875
-  saturation: 0.9375
-  rhythmicContrast: 1
+    - '#cccccc'
+    - '#383b2a'
+    - '#5e624a'
+    - '#0a0a08'
+    - '#8f8b7c'
+  brandStrength: 0.5
+  lightness: 0.5625
+  saturation: 0.6875
+  rhythmicContrast: 0.75
 purpose: []
