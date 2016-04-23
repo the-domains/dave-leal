@@ -1,6 +1,6 @@
 name: Dave
 favicon: null
-layout_spectrum: 0.50528
+layout_spectrum: 0.4381
 typography_spectrum: 0.32764
 title: Design
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#cccccc'
-    - '#383b2a'
-    - '#5e624a'
-    - '#0a0a08'
-    - '#8f8b7c'
-  brandStrength: 0.5
+    - '#f2f3f3'
+    - '#ff9205'
+    - '#25262a'
+    - '#5d5d5d'
+    - '#979797'
+  brandStrength: 1
   lightness: 0.5625
-  saturation: 0.6875
+  saturation: 0.9375
   rhythmicContrast: 0.75
 purpose: []
